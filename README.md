@@ -25,6 +25,12 @@ If you are combining data from different sources, harmonization may be required.
   * If you have any ideas, please go to [issues].
   * You can provide any extra resources in the `/resources` directory via [pull request].
 
+## Please contribute!
+
+  * [Want to propose a new resource?](https://github.com/DSQResources/DSQ-wht/issues/new)
+  * [Want to report an issue / give a feedback?](https://github.com/DSQResources/DSQ-wht/issues/new)
+  * [We also welcome pull requests!](https://github.com/DSQResources/DSQ-wht/pulls)
+
 ----
 
 *Do not edit this README file by hand, it is automatically generated*
